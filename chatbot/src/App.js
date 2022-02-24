@@ -37,7 +37,7 @@ const steps = [
     end: "8",
   },
   {
-    id: "7",
+    id: "8",
     message: "Thank you for your valuable time.. we will get back to you",
     end: true,
   },
