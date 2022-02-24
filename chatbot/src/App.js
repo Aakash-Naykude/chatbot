@@ -34,7 +34,7 @@ const steps = [
   {
     id: "7",
     message: "Is there anything else we can do for you",
-    end: true,
+    end: "8",
   },
   {
     id: "7",
